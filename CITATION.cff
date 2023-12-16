@@ -3,63 +3,35 @@ cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: 
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: dos Reis Soares
+    given-names: Thais
+  - family-names: Leite Silva
+    given-names: Maíra
+  - family-names: Luiza dos Santos
+    given-names: Nalanda
+  - family-names: Antonella Sicari
+    given-names: Rebecca
+  - family-names: de Almeida Araujo
+    given-names: Pedro Henrique
+  - family-names: Sotto-Maior Damas Pires
+    given-names: Victor
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Dias Ferreira da Rocha
+    given-names: Roberto Felipe
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Vieira Carneiro
+    given-names: Rommel
 keywords:
-  - 
-  - 
-repository-code: 
+  - Abandono de animais
+  - Adoção
+  - ONGs
+  - Adoção responsável
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti1-0385100-abandono-de-animais
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2023-12-16
 =======
-cff-version: 1.0.1
-message: Please cite this software using these metadata.
-title: 
-authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
-keywords:
-  - 
-  - 
-repository-code: 
-license: CC-BY-4.0
-version: 1.0.0
-date-released: 2022-07-14
+
 >>>>>>> 576e4073eb686b7caee5801aac8f95491eb4d605
